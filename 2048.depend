@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1475388514 source:c:\users\anyel\documents\c\2048\main.cpp
+	<iostream>
+	"Table.h"
+
+1475392503 c:\users\anyel\documents\c\2048\include\table.h
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"FileTable.h"
+
+1475352016 c:\users\anyel\documents\c\2048\include\filetable.h
+	<iostream>
+
+1475352024 source:c:\users\anyel\documents\c\2048\src\filetable.cpp
+	"FileTable.h"
+
+1475391137 source:c:\users\anyel\documents\c\2048\src\table.cpp
+	"Table.h"
+
